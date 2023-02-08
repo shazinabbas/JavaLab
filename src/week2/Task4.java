@@ -13,6 +13,7 @@ public class Task4 {
             reversed = reversed * 10 +remainder;
             number /= 10;
         }
+
         System.out.println("The reversed number is: "+ reversed);
 
     }
